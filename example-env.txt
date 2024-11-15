@@ -11,3 +11,6 @@ TARGET_ZENDESK_API_TOKEN=
 # Rate Limiting
 REQUESTS_PER_MINUTE=75
 BATCH_SIZE=100
+
+# Data Selection for analysis/import
+SOURCE_DIR=data/source
