@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organizations>
+    <organization>
+        <id>1</id>
+        <name>Acme Corp</name>
+    </organization>
+    <organization>
+        <id>2</id>
+        <name>Globex Corp</name>
+    </organization>
+</organizations>

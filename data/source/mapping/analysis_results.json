@@ -1,0 +1,23 @@
+{
+  "tickets": {
+    "total": 2,
+    "withAttachments": 1,
+    "withCCs": 1,
+    "byBrand": {
+      "123": 1,
+      "456": 1
+    },
+    "customFields": []
+  },
+  "users": {
+    "total": 3,
+    "byOrganization": {
+      "1": 2,
+      "2": 1
+    }
+  },
+  "organizations": {
+    "total": 2
+  },
+  "estimatedTimeMinutes": 1
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+    <ticket>
+        <id>1</id>
+        <subject>Test ticket with attachment</subject>
+        <brand_id>123</brand_id>
+        <attachments>
+            <attachment>
+                <id>1</id>
+                <filename>test.pdf</filename>
+            </attachment>
+        </attachments>
+        <cc_users>
+            <user_id>2</user_id>
+        </cc_users>
+        <custom_fields>
+            <field>
+                <id>priority_field</id>
+                <value>high</value>
+            </field>
+        </custom_fields>
+    </ticket>
+    <ticket>
+        <id>2</id>
+        <subject>Simple ticket</subject>
+        <brand_id>456</brand_id>
+        <custom_fields>
+            <field>
+                <id>1234</id>
+                <value>billing</value>
+            </field>
+        </custom_fields>
+    </ticket>
+</tickets>

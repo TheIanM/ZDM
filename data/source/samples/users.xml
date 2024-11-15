@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>John Doe</name>
+        <email>john@example.com</email>
+        <organization_id>1</organization_id>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <email>jane@example.com</email>
+        <organization_id>1</organization_id>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Bob Wilson</name>
+        <email>bob@example.com</email>
+        <organization_id>2</organization_id>
+    </user>
+</users>
